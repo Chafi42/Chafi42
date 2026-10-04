@@ -38,8 +38,8 @@ Bref, j'aime résoudre des problèmes complexes et transformer des idées en pro
 Toujours chaud pour échanger sur du dev, un projet ou une opportunité d'alternance !
 
 * ✉️ Email : chafiaadssi42@gmail.com
-* 💼 LinkedIn : linkedin.com/in/chafi-aadssi-01a73b434
-* 🌐 Portfolio : portfolio-chafi.netlify.app
+* 💼 LinkedIn : https://linkedin.com/in/chafi-aadssi-01a73b434
+* 🌐 Portfolio : https://portfolio-chafi.netlify.app
 
 ---
 

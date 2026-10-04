@@ -23,9 +23,9 @@ Bref, j'aime résoudre des problèmes complexes et transformer des idées en pro
 
 ### 🚀 Mes projets récents
 
-* **Portfolio :** Mon site perso avec mes créations.
-* **Plateforme FLE :** Un outil interne créé pour les formateurs chez *Garage404*.
-* **Gestion agricole :** App web de gestion de stock et vente directe pour les agriculteurs *(Laravel / Blade)*.
+* Portfolio : Mon site perso avec mes créations.
+* Plateforme FLE : Un outil interne créé pour les formateurs chez *Garage404*.
+* Gestion agricole : App web de gestion de stock et vente directe pour les agriculteurs *(Laravel / Blade)*.
 
 ---
 
@@ -33,10 +33,10 @@ Bref, j'aime résoudre des problèmes complexes et transformer des idées en pro
 
 Toujours chaud pour échanger sur du dev ou étudier de nouvelles opportunités !
 
-* ✉️ **Email :** mutuon.j@gmail.com
-* 💼 **LinkedIn :** linkedin.com/in/joan-mutuon
-* 🌐 **Portfolio :** Mon site web
+* ✉️ Email : chafiaadssi42@gmail.com
+* 💼 LinkedIn : https://www.linkedin.com/in/chafi-aadssi-01a73b434/
+* 🌐 Portfolio : https://portfolio-chafi.netlify.app/
 
-Si votre entreprise cherche un alternant motivé, prêt à s'investir sur vos projets, discutons-en.
+Si votre entreprise cherche un alternant motivé, prêt à s'investir à 100%, discutons-en.
 
 Merci d'être passé sur mon profil ! 🚀

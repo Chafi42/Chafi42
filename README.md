@@ -2,41 +2,45 @@
 
 Développeur Web & Web Mobile Fullstack, diplômé d'un Bac+2. Ce qui me plaît, c'est de concevoir des applis simples à utiliser, avec du code propre et une architecture solide en arrière-plan.
 
-Bref, j'aime résoudre des problèmes complexes et transformer des idées en projets qui tournent nickel.
+💡 À la recherche d'une alternance pour septembre 2027 pour préparer mon diplôme de Concepteur Développeur d'Applications (Bac+3).
+
+Bref, j'aime résoudre des problèmes complexes et transformer des idées en projets réels.
 
 ---
 
-### 🛠️ Mes techno & outils
+### 🛠️ Mes technos & outils
 
-* 💻 Développement & Environnement : IDE, npm, Postman
-* ⚛️ Côté Front : Tailwind, Vue.js / Nuxt.js, React.js
-* ⚙️ Côté Back : Node.js, Symfony, WordPress
+* 💻 Développement & Environnement : IDE, NPM, Postman, Insomnia, Swagger
+* ⚛️ Côté Front : Vue.js / Nuxt.js, React.js, Tailwind
+* ⚙️ Côté Back : Node.js, Express.js, Symfony, WordPress
+* 🗄️ Bases de données : MongoDB, MySQL, PostgreSQL
 * ☁️ Cloud & Hébergement : Vercel, Railway
 * 🛡️ Monitoring & Sécurité : Sentry, Grafana
-* 📋 Gestion de projet & Collaboration : Notion, Scrum, Discord
+* 📋 Gestion de projet & Collaboration : Notion, Scrum, Discord, Slack
 * 🎨 Design & Prototypage : Figma, Canva, Adobe XD
-* 🌿 Versioning & Intégration Continue : Git, GitHub, Git Action, Jenkins
-* 🧪 Test & Qualité: Jest, SonarQube
-* 🚀 Déploiement, Conteneurisation & Système : Docker, Kubernetes, Nginx/Apache, OpenSSH
+* 🌿 Versioning & CI/CD : Git, GitHub, GitHub Actions, Jenkins
+* 🧪 Test & Qualité : Jest, SonarQube
+* 🚀 Déploiement & Système : Docker, Kubernetes, Nginx/Apache, OpenSSH
 
 ---
 
-### 🚀 Mes projets récents
+### 💻 Mes projets récents
 
-* Portfolio : Mon site perso avec mes créations.
-* Plateforme FLE : Un outil interne créé pour les formateurs chez *Garage404*.
-* Gestion agricole : App web de gestion de stock et vente directe pour les agriculteurs *(Laravel / Blade)*.
+* Portfolio : Mon site perso pour présenter mes réalisations.
+* Plateforme FLE : Outil interne sur mesure conçu pour les formateurs chez *Garage404*.
+* Gestion agricole : App web de gestion de stock et vente directe pour les agriculteurs (*Laravel / Blade*).
 
 ---
 
 ### 💬 On en discute ?
 
-Toujours chaud pour échanger sur du dev ou étudier de nouvelles opportunités !
+🎯 Actuellement en quête d'un contrat d'alternance à compter de septembre 2027.
+Toujours chaud pour échanger sur du dev, un projet ou une opportunité d'alternance !
 
 * ✉️ Email : chafiaadssi42@gmail.com
-* 💼 LinkedIn : https://www.linkedin.com/in/chafi-aadssi-01a73b434/
-* 🌐 Portfolio : https://portfolio-chafi.netlify.app/
+* 💼 LinkedIn : linkedin.com/in/chafi-aadssi-01a73b434
+* 🌐 Portfolio : portfolio-chafi.netlify.app
 
-Si votre entreprise cherche un alternant motivé, prêt à s'investir à 100%, discutons-en.
+---
 
 Merci d'être passé sur mon profil ! 🚀

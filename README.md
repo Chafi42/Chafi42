@@ -13,13 +13,13 @@ Bref, j'aime résoudre des problèmes complexes et transformer des idées en pro
 * 💻 Développement & Environnement : IDE, NPM, Postman, Insomnia, Swagger
 * ⚛️ Côté Front : Vue.js / Nuxt.js, React.js, Tailwind
 * ⚙️ Côté Back : Node.js, Express.js, Symfony, WordPress
-* 🗄️ Bases de données : MongoDB, MySQL, PostgreSQL
+* 🗄️ Bases de données : MongoDB, MySQL, Supabase
 * ☁️ Cloud & Hébergement : Vercel, Railway
 * 🛡️ Monitoring & Sécurité : Sentry, Grafana
 * 📋 Gestion de projet & Collaboration : Notion, Scrum, Discord, Slack
 * 🎨 Design & Prototypage : Figma, Canva, Adobe XD
 * 🌿 Versioning & CI/CD : Git, GitHub, GitHub Actions, Jenkins
-* 🧪 Test & Qualité : Jest, SonarQube
+* 🧪 Test, Qualité : Jest, Supertest, SonarQube, Zod
 * 🚀 Déploiement & Système : Docker, Kubernetes, Nginx/Apache, OpenSSH
 
 ---
@@ -28,6 +28,7 @@ Bref, j'aime résoudre des problèmes complexes et transformer des idées en pro
 
 * Portfolio : Mon site perso pour présenter mes réalisations.
 * Gestion de stock et de ventes de pièces auto : Une app qui suit ton stock de pièces auto et tes ventes en temps réel.
+* Gestion d'argent
 
 ---
 

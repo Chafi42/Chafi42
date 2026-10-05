@@ -27,8 +27,7 @@ Bref, j'aime résoudre des problèmes complexes et transformer des idées en pro
 ### 💻 Mes projets récents
 
 * Portfolio : Mon site perso pour présenter mes réalisations.
-* Plateforme FLE : Outil interne sur mesure conçu pour les formateurs chez *Garage404*.
-* Gestion agricole : App web de gestion de stock et vente directe pour les agriculteurs (*Laravel / Blade*).
+* Gestion de pieces de mécanique auto : Elle te permet de savoir en temps réel ce que tu as en stock et ce que tu vends, pour ne jamais être en rupture ni perdre le fil de tes ventes et de ton chiffre d'affaires.
 
 ---
 

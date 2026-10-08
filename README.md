@@ -27,8 +27,8 @@ Bref, j'aime résoudre des problèmes complexes et transformer des idées en pro
 ### 💻 Mes projets récents
 
 * Portfolio : Mon site perso pour présenter mes réalisations.
-* Gestion de stock et de ventes de pièces auto : Une app qui suit ton stock de pièces auto et tes ventes en temps réel.
-* Gestion d'argent
+* Nexis Budget : Cette plateforme est faite pour gérer ces entrées et sorties d'argent, et qui permet également de verrouiller des plafonds de dépenses par catégories.
+
 
 ---
 

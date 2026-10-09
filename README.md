@@ -76,12 +76,27 @@ Bref, j'aime résoudre des problèmes complexes et transformer des idées en pro
 
 # 💻 Mes projets récents
 
-* Portfolio : Mon site perso pour présenter mes réalisations.
-* Nexis Budget : Cette plateforme est faite pour gérer ces entrées et sorties d'argent, et qui permet également de verrouiller des plafonds de dépenses par catégories.
- ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](#)
+---
 
+* Portfolio : Mon site perso pour présenter mes réalisations.
+
+--- 
+* Nexis Budget est une plateforme de gestion budgétaire personnelle qui permet de suivre ses entrées et sorties d’argent, ainsi que de définir des plafonds de dépenses par catégorie pour mieux gérer son budget.                                          
+* Back-end (API) : MongoDB, Node, Express, Jest, Supertest, Zod, Bcrypt, Cors, Swagger                                                               
+* Front-end : Nuxt 4, Nuxt UI, VueUse, Tailwind CSS, Pinia, Day, Zod
+---
+
+💬 On en discute ?
+
+Je suis actuellement à la recherche d’un contrat d’alternance à partir de septembre 2027. Je suis toujours partant pour échanger autour du développement web, de nouveaux projets ou d’opportunités professionnelles.
+
+✉️ Email : chafiaadssi42@gmail.com
+
+💼 LinkedIn : https://linkedin.com/in/chafi-aadssi-01a73b434/
+
+🌐 Portfolio : https://portfolio-chafi.netlify.app/
+
+Merci d’être passé sur mon profil ! 🚀
 
 
 

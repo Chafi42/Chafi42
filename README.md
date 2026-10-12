@@ -4,11 +4,11 @@ Développeur Web & Web Mobile Fullstack, diplômé d'un Bac+2. Ce qui me plaît,
 
 💡 À la recherche d'une alternance pour septembre 2027 pour préparer mon diplôme de Concepteur Développeur d'Applications (Bac+3).
 
-Bref, j'aime résoudre des problèmes complexes et transformer des idées en projets réels.
-
 ---
 
 # 🛠️ Mes technos & outils
+
+---
 
 ### 💻 Développement & Environnement
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
@@ -81,36 +81,19 @@ Bref, j'aime résoudre des problèmes complexes et transformer des idées en pro
 * Portfolio : Mon site perso pour présenter mes réalisations.
 
 --- 
+
 * Nexis Budget est une plateforme de gestion budgétaire personnelle qui permet de suivre ses entrées et sorties d’argent, ainsi que de définir des plafonds de dépenses par catégorie pour mieux gérer son budget.                                          
-* Back-end (API) : MongoDB, Node, Express, Jest, Supertest, Zod, Bcrypt, Cors, Swagger                                                               
-* Front-end : Nuxt 4, Nuxt UI, VueUse, Tailwind CSS, Pinia, Day, Zod
+- Back-end (API) : MongoDB, Node, Express, Jest, Supertest, Zod, Bcrypt, Cors, Swagger                                        
+- Front-end : Nuxt 4, Nuxt UI, VueUse, Tailwind CSS, Pinia, Day, Zod
+
 ---
 
-💬 On en discute ?
-
-Je suis actuellement à la recherche d’un contrat d’alternance à partir de septembre 2027. Je suis toujours partant pour échanger autour du développement web, de nouveaux projets ou d’opportunités professionnelles.
+# 💬 On en discute ?
 
 ✉️ Email : chafiaadssi42@gmail.com
-
 💼 LinkedIn : https://linkedin.com/in/chafi-aadssi-01a73b434/
-
 🌐 Portfolio : https://portfolio-chafi.netlify.app/
 
+---
+
 Merci d’être passé sur mon profil ! 🚀
-
-
-
----
-
-### 💬 On en discute ?
-
-🎯 Actuellement en quête d'un contrat d'alternance à compter de septembre 2027.
-Toujours chaud pour échanger sur du dev, un projet ou une opportunité d'alternance !
-
-* ✉️ Email : chafiaadssi42@gmail.com
-* 💼 LinkedIn : https://linkedin.com/in/chafi-aadssi-01a73b434/
-* 🌐 Portfolio : https://portfolio-chafi.netlify.app/
-
----
-
-Merci d'être passé sur mon profil ! 🚀

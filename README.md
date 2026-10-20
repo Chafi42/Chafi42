@@ -67,22 +67,24 @@ Mon espace perso pour présenter mon parcours, mes réalisations et les projets 
 
 Une application de gestion de budget personnel pour suivre ses revenus et ses dépenses, organiser son argent par catégorie et définir des plafonds de dépenses.
 
-🎨 Front-end
-🧩 Framework & UI : Nuxt 4, Nuxt UI
-🎨 Styles : Tailwind CSS
-📦 Gestion d’état : Pinia
-⚡ Utilitaires Vue : VueUse
-📅 Dates : Day.js
-✅ Validation des données : Zod
+🎨 Front-end                
+
+🧩 Framework & UI : Nuxt 4, Nuxt UI                                                                                                                    
+🎨 Styles : Tailwind CSS                                                                                                                              
+📦 Gestion d’état : Pinia                                                                                                                            
+⚡ Utilitaires Vue : VueUse                                                                                                                                
+📅 Dates : Day.js                                                                                                                                  
+✅ Validation des données : Zod                                                              
 
 ⚙️ Back-end
-🟢 Runtime : Node.js
-🚀 Framework API : Express.js
-🗄️ Base de données : MongoDB
-🧪 Tests : Jest, Supertest
-✅ Validation des données : Zod
-🔐 Sécurité : Bcrypt
-📚 Documentation API : Swagger
+
+🟢 Runtime : Node.js                                                                                                                      
+🚀 Framework API : Express.js                                                                                                                      
+🗄️ Base de données : MongoDB                                                                                                                    
+🧪 Tests : Jest, Supertest                                                                                                                                   
+✅ Validation des données : Zod                                                                                                              
+🔐 Sécurité : Bcrypt                                                                                                                                      
+📚 Documentation API : Swagger                                                                                                                               
 🌐 Gestion des requêtes cross-origin : CORS
 
 

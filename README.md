@@ -1,9 +1,6 @@
 # 👋 Salut, moi c’est Chafi !
 
-💻 Développeur Web & Web Mobile Fullstack, diplômé d’un Bac+2, je crée des applications web et j’apprends constamment de nouvelles choses à travers mes projets.
-
-🧠 J’aime comprendre comment les choses fonctionnent, résoudre des problèmes et améliorer mon code au fil du temps.
-
+💻 Développeur Web & Web Mobile Fullstack, diplômé d’un Bac+2. J’aime comprendre comment les choses fonctionnent, résoudre des problèmes et améliorer mon code au fil du temps.                                                                                                  
 🎯 **Objectif :** trouver une alternance pour septembre 2027 afin de préparer un Bac+3 en Conception et Développement d’Applications.
 
 
@@ -56,36 +53,42 @@
 ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
 
 
-## 🚀 Mes projets
+## 💻 Mes projets
 
-### 🌐 Portfolio
-
-Mon espace perso pour présenter mon parcours, mes réalisations et les projets sur lesquels je travaille.                              
+### 🌐 Portfolio 
+Un portfolio développé avec Vue 3 pour présenter mon parcours, mes compétences, mes projets et me contacter.                    
 **[Visiter mon portfolio](https://chafiaadssi.netlify.app/)**
 
+🎨 Framework : Vue 3                                                                                                                                  
+⚡ Build : Vite                                                                                                                                  
+🧩 Langage : TypeScript                                                                                                                                  
+💅 Styles : Tailwind CSS                                                                                                                                  
+🧭 Navigation : Vue Router                                                                                                                                  
+✨ Animations : Motion for Vue (motion-v)                                                                                                                                  
+🖼️ Icônes : Lucide Vue                                                                                                                                  
+🔧 Utilitaires : VueUse                                                                                                                                  
+📱 Responsive : Mobile, tablette et desktop                                                                                                                                  
+
 ### 💰 Nexis Budget
+Application de gestion de budget personnel : suivi des revenus, dépenses et plafonds par catégorie.
 
-Une application de gestion de budget personnel pour suivre ses revenus et ses dépenses, organiser son argent par catégorie et définir des plafonds de dépenses.
+🎨 Front-end : Nuxt 4, Nuxt UI, Tailwind CSS, Pinia, VueUse, Day.js, Zod
+⚙️ Back-end : Node.js, Express.js
+🗄️ Base de données : MongoDB
+🧪 Tests : Jest, Supertest
+🔐 Sécurité & validation : Bcrypt, Zod
+📚 Documentation API : Swagger
+🌐 CORS : Gestion des requêtes cross-origin
 
-🎨 Front-end                
+### 🤝 Qovio — Plateforme collaborative
+Une plateforme collaborative conçue pour faciliter le travail en équipe, la gestion de projets ainsi que la gestion de tâches.
 
-🧩 Framework & UI : Nuxt 4, Nuxt UI                                                                                                                    
-🎨 Styles : Tailwind CSS                                                                                                                              
-📦 Gestion d’état : Pinia                                                                                                                            
-⚡ Utilitaires Vue : VueUse                                                                                                                                
-📅 Dates : Day.js                                                                                                                                  
-✅ Validation des données : Zod                                                              
+⚙️ Back-end : Symfony, PHP                                                                                                                                  
+🗄️ Base de données : MySQL                                                                                                                                  
+🔐 Sécurité : Symfony Security                                                                                                                               
+🧪 Tests : PHPUnit                                                                                                                                  
+📚 API : Symfony API Platform                                                                                                                                  
 
-⚙️ Back-end
-
-🟢 Runtime : Node.js                                                                                                                      
-🚀 Framework API : Express.js                                                                                                                      
-🗄️ Base de données : MongoDB                                                                                                                    
-🧪 Tests : Jest, Supertest                                                                                                                                   
-✅ Validation des données : Zod                                                                                                              
-🔐 Sécurité : Bcrypt                                                                                                                                      
-📚 Documentation API : Swagger                                                                                                                               
-🌐 Gestion des requêtes cross-origin : CORS
 
 
 ## 📫 Me contacter
@@ -96,7 +99,5 @@ Une application de gestion de budget personnel pour suivre ses revenus et ses d�
 - 💼 **LinkedIn :** [in/chafi-aadssi](https://linkedin.com/in/chafi-aadssi-01a73b434/)
 - 🌍 **Portfolio :** [[chafiaadssi.netlify.app](https://chafiaadssi.netlify.app/)
 
-
----
 
 N’hésite pas à explorer mes projets. 👋

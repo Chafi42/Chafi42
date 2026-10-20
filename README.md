@@ -6,7 +6,6 @@
 
 🎯 **Objectif :** trouver une alternance pour septembre 2027 afin de préparer un Bac+3 en Conception et Développement d’Applications.
 
----
 
 ## 🛠️ Technologies & outils
 
@@ -56,7 +55,6 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
 
----
 
 ## 🚀 Mes projets
 
@@ -69,24 +67,23 @@ Mon espace perso pour présenter mon parcours, mes réalisations et les projets 
 
 Une application de gestion de budget personnel pour suivre ses revenus et ses dépenses, organiser son argent par catégorie et définir des plafonds de dépenses.
 
-**🔧 Back-end**
-- 🟢 Node.js & Express
-- 🍃 MongoDB
-- 🧪 Jest & Supertest
-- ✅ Zod
-- 🔐 Bcrypt
-- 📚 Swagger
+🎨 Front-end
+🧩 Framework & UI : Nuxt 4, Nuxt UI
+🎨 Styles : Tailwind CSS
+📦 Gestion d’état : Pinia
+⚡ Utilitaires Vue : VueUse
+📅 Dates : Day.js
+✅ Validation des données : Zod
 
-**🎨 Front-end**
-- 💚 Nuxt 4 & Nuxt UI
-- ⚡ VueUse
-- 🎨 Tailwind CSS
-- 📦 Pinia
-- 📅 Day.js
-- ✅ Zod
-
-
----
+⚙️ Back-end
+🟢 Runtime : Node.js
+🚀 Framework API : Express.js
+🗄️ Base de données : MongoDB
+🧪 Tests : Jest, Supertest
+✅ Validation des données : Zod
+🔐 Sécurité : Bcrypt
+📚 Documentation API : Swagger
+🌐 Gestion des requêtes cross-origin : CORS
 
 
 ## 📫 Me contacter
@@ -96,6 +93,7 @@ Une application de gestion de budget personnel pour suivre ses revenus et ses d�
 - ✉️ **Email :** [chafiaadssi42@gmail.com](mailto:chafiaadssi42@gmail.com)
 - 💼 **LinkedIn :** [in/chafi-aadssi](https://linkedin.com/in/chafi-aadssi-01a73b434/)
 - 🌍 **Portfolio :** [[chafiaadssi.netlify.app](https://chafiaadssi.netlify.app/)
+
 
 ---
 

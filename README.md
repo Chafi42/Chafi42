@@ -18,39 +18,33 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ### 🗄️ Bases de données
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🧪 Tests & qualité du code
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Supertest](https://img.shields.io/badge/Supertest-333333?style=for-the-badge&logo=jest&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
 ### 🧰 Outils & environnement
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ### 🚀 DevOps & déploiement
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 
 ## 💻 Mes projets
@@ -69,19 +63,19 @@ Un portfolio développé avec Vue 3 pour présenter mon parcours, mes compétenc
 🔧 Utilitaires : VueUse                                                                                                                                  
 📱 Responsive : Mobile, tablette et desktop                                                                                                                                  
 
-### 💰 Nexis Budget
+### 💰 Nexis Budget 
 Application de gestion de budget personnel : suivi des revenus, dépenses et plafonds par catégorie.
 
-🎨 Front-end : Nuxt 4, Nuxt UI, Tailwind CSS, Pinia, VueUse, Day.js, Zod
-⚙️ Back-end : Node.js, Express.js
-🗄️ Base de données : MongoDB
-🧪 Tests : Jest, Supertest
-🔐 Sécurité & validation : Bcrypt, Zod
-📚 Documentation API : Swagger
-🌐 CORS : Gestion des requêtes cross-origin
+🎨 Front-end : Nuxt 4, Nuxt UI, Tailwind CSS, Pinia, VueUse, Day.js, Zod                                                                                                                                   
+⚙️ Back-end : Node.js, Express.js                                                                                                                                  
+🗄️ Base de données : MongoDB                                                                                                                                  
+🧪 Tests : Jest, Supertest                                                                                                                                  
+🔐 Sécurité & validation : Bcrypt, Zod                                                                                                                                  
+📚 Documentation API : Swagger                                                                                                                                  
+🌐 CORS : Gestion des requêtes cross-origin                                                                                                                  
 
-### 🤝 Qovio — Plateforme collaborative
-Une plateforme collaborative conçue pour faciliter le travail en équipe, la gestion de projets ainsi que la gestion de tâches.
+### 🤝 Qovio — API Plateforme collaborative
+API back-end développée avec Symfony pour gérer les projets, les tâches et les fonctionnalités liées au travail en équipe. Ce projet me permet de travailler sur la conception d'API REST et la gestion des données côté serveur.
 
 ⚙️ Back-end : Symfony, PHP                                                                                                                                  
 🗄️ Base de données : MySQL                                                                                                                                  
@@ -97,7 +91,7 @@ Une plateforme collaborative conçue pour faciliter le travail en équipe, la ge
 
 - ✉️ **Email :** [chafiaadssi42@gmail.com](mailto:chafiaadssi42@gmail.com)
 - 💼 **LinkedIn :** [in/chafi-aadssi](https://linkedin.com/in/chafi-aadssi-01a73b434/)
-- 🌍 **Portfolio :** [[chafiaadssi.netlify.app](https://chafiaadssi.netlify.app/)
+- 🌍 **Portfolio :** [chafiaadssi.netlify.app](https://chafiaadssi.netlify.app/)
 
 
-N’hésite pas à explorer mes projets. 👋
+Merci d'êtrre passé. N’hésite pas à explorer mes projets. 👋

@@ -20,7 +20,6 @@
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![API Platform](https://img.shields.io/badge/API_Platform-000000?style=for-the-badge&logo=symfony&logoColor=white)
 
 ### 🗄️ Bases de données
 
@@ -43,6 +42,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![API Platform](https://img.shields.io/badge/API_Platform-000000?style=for-the-badge&logo=symfony&logoColor=white)
 
 ## 💻 Mes projets
 
